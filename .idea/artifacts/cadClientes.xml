@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cadClientes">
+    <output-path>$PROJECT_DIR$/out/artifacts/cadClientes</output-path>
+    <root id="archive" name="cadClientes.jar">
+      <element id="file-copy" path="$USER_HOME$/Downloads/driver mysql/rs2xml.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/driver mysql/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar" />
+      <element id="module-output" name="cadClientes" />
+    </root>
+  </artifact>
+</component>
